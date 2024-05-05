@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Aniruddha Rawool</h1>
-# 💫 About Me:
+💫 About Me:
 Hey there! I'm currently working on "Anademy" an e-learning platform. <br>While I'm focusing on Data Structures and Algorithms (DSA) and Next.js right now<br> I'm happy to answer any questions you have about the MERN stack
 
 
