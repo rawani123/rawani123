@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Aniruddha Rawool</h1>
-About Me:</br>
-<h2>Hey there! I'm currently working on "Anademy" an e-learning platform. <br>While I'm focusing on Data Structures and Algorithms (DSA) and Next.js right now<br> I'm happy to answer any questions you have about the MERN stack
-</h2>
+<h1 align="center">Hi 👋, I'm Aniruddha Rawool</h1><br>
+<h2>I'm a dedicated developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and Next.js. I have a passion for learning and exploring new technologies to stay at the forefront of the development landscape. Whether I'm building scalable web applications or diving into innovative tech, I'm always excited to tackle new challenges and expand my knowledge.</h2>
+
+Feel free to check out my projects and connect with me!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-rawool-9a2127260/) 
